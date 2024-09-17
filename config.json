@@ -1,6 +1,6 @@
 {
-  "title": "Hello world!",
+  "title": "Create an interface",
   "type": "editor",
-  "answerSrc": "../02-HomeComponent/src",
-  "openFiles": ["src/app/app.component.ts"]
+  "answerSrc": "../05-inputs/src",
+  "openFiles": ["src/app/home/home.component.ts"]
 }
